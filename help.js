@@ -4,7 +4,7 @@ let activeCategory = null;
 const categories = [
   ['start', 'Getting started', 'Εκκίνηση'], ['applications', 'Applications', 'Εφαρμογές'],
   ['proxy', 'Proxy & Bypass', 'Proxy & Bypass'], ['ssh', 'SSH Tunnels', 'SSH Tunnels'],
-  ['browser', 'Browser add-on', 'Πρόσθετο browser'], ['automatic', 'Automatic operations', 'Αυτόματες λειτουργίες'],
+  ['server', 'Linux server', 'Linux server'], ['browser', 'Browser add-on', 'Πρόσθετο browser'], ['automatic', 'Automatic operations', 'Αυτόματες λειτουργίες'],
   ['security', 'Security & Settings', 'Ασφάλεια & Ρυθμίσεις'], ['troubleshooting', 'Troubleshooting', 'Προβλήματα']
 ];
 language.checked = false;
