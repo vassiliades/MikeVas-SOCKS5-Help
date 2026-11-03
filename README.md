@@ -8,3 +8,5 @@ The application source and preview downloads are maintained separately in a priv
 Do not post credentials, private network details or unsanitized logs in public issues.
 
 Guide content is maintained in the application source and synchronized to this repository.
+
+User guides: [Daily procedures](procedures.html), [Installation](install.html), [Linux server](server.html), [Network Drives](drives.html), [Protected permissions](permissions.html), [Privacy](privacy.html).
